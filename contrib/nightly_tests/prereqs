@@ -1,0 +1,2 @@
+# Packages (Ubuntu names)
+cmake mercurial make gcc flex bison binutils libsctp-dev libgnutls-dev valgrind wget libpq-dev postgresql
