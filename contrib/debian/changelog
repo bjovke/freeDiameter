@@ -1,0 +1,17 @@
+freediameter (1.0.1-dev) experimental; urgency=low
+
+  * Started development of next version 
+
+ -- Sebastien Decugis <sdecugis@nict.go.jp>  Thu, 29 Jul 2010 17:31:52 +0900
+
+freediameter (1.0.0-2) experimental; urgency=low
+
+  * Official release 1.0.0 
+
+ -- Sebastien Decugis <sdecugis@nict.go.jp>  Thu, 29 Jul 2010 17:27:13 +0900
+
+freediameter (1.0.0-1) experimental; urgency=low
+
+  * Initial Release.
+  
+ -- Sebastien Decugis <sdecugis@nict.go.jp>  Wed, 19 May 2010 15:36:54 +0900
